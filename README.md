@@ -1,7 +1,7 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ulhas-narwade-aws-certified-devops/" target="_blank"> Cloud Messenger; </a></h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76407&random=false&width=435&lines=Cloud+Engineer)" alt="Typing SVG" /></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76407&random=false&width=435&lines=Cloud+Engineer;AWS+Cloud+Engineer)" alt="Typing SVG" /></h3>
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
@@ -10,16 +10,16 @@
    
 </div>
 
-<h3 align="left">🚀 Tech Stack:</h3>
+<h3 align="left">🚀 SKills :</h3>
+
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/docker-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <h4 align="left">> DevOps</h4>
+  <h4 align="left">> Docker</h4>
+  <h4 align="left">>Jenkins</h4>
+  <h4 align="left">> CI/CD</h4>
+  <h4 align="left">> kubernates</h4>
+  <h4 align="left">> AWS Certified</h4>
+  <h4 align="left">> Terraform</h4>
 </div>
 
 
