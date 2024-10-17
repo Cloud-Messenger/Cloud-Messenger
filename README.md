@@ -13,13 +13,13 @@
 <h3 align="left">🚀 SKills :</h3>
 
 <div align="left">
-  <h4 align="left">> DevOps</h4>
-  <h4 align="left">> Docker</h4>
-  <h4 align="left">>Jenkins</h4>
-  <h4 align="left">> CI/CD</h4>
-  <h4 align="left">> kubernates</h4>
-  <h4 align="left">> AWS Certified</h4>
-  <h4 align="left">> Terraform</h4>
+  <h4 align="left">> DevOps <img src="devops.png" width="40px" height="auto"></h4>
+  <h4 align="left">> Docker <img src="docker.png" width="40px" height="auto"></h4>
+  <h4 align="left">>Jenkins <img src="download (5).png" width="80px" height="auto"></h4>
+  <h4 align="left">> CI/CD <img src="devops.png" width="40px" height="auto"></h4>
+  <h4 align="left">> kubernates <img src="devops.png" width="40px" height="auto"></h4>
+  <h4 align="left">> AWS Certified <img src="devops.png" width="40px" height="auto"></h4>
+  <h4 align="left">> Terraform <img src="devops.png" width="40px" height="auto"></h4>
 </div>
 
 
