@@ -13,13 +13,17 @@
 <h3 align="left">🚀 SKills :</h3>
 
 <div align="left">
-  <h4 align="left">> DevOps <img src="devops.png" width="40px" height="auto"></h4>
-  <h4 align="left">> Docker <img src="docker.png" width="40px" height="auto"></h4>
-  <h4 align="left">>Jenkins <img src="download (5).png" width="80px" height="auto"></h4>
-  <h4 align="left">> CI/CD <img src="devops.png" width="40px" height="auto"></h4>
-  <h4 align="left">> kubernates <img src="devops.png" width="40px" height="auto"></h4>
-  <h4 align="left">> AWS Certified <img src="devops.png" width="40px" height="auto"></h4>
-  <h4 align="left">> Terraform <img src="devops.png" width="40px" height="auto"></h4>
+  <h4 align="left">• DevOps <img src="devops.png" width="40px" height="auto"></h4>
+  <h4 align="left">• Docker <img src="docker.png" width="40px" height="auto"></h4>
+  <h4 align="left">• Jenkins <img src="download (5).png" width="80px" height="auto"></h4>
+  <h4 align="left">• CI/CD <img src="cicd.png" width="40px" height="auto"></h4>
+  <h4 align="left">• kubernates <img src="download (4).png" width="40px" height="auto"></h4>
+  <h4 align="left">• AWS Certified <img src="aws.png" width="40px" height="auto"></h4>
+  <h4 align="left">• Terraform <img src="download (2).png" width="40px" height="auto"></h4>
+  <h4 align="left">• Grafana <img src="grafana-icon-2048x2048-wqsyt9bl.png" width="40px" height="auto"></h4>
+  <h4 align="left">• Prometheus <img src="Prometheus_software_logo.svg.png" width="40px" height="auto"></h4>
+  <h4 align="left">• Linux <img src="download.jpeg" width="40px" height="auto"></h4>
+  <h4 align="left">• Python <img src="download (6).png" width="40px" height="auto"></h4>
 </div>
 
 
