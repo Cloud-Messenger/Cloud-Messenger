@@ -3,38 +3,28 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ulhas-narwade-aws-certified-devops/" target="_blank"> Cloud Messenger; </a></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76407&random=false&width=435&lines=Cloud+Engineer;AWS+Cloud+Engineer)" alt="Typing SVG" /></h3>
 
-<h3 align="left">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ulhas-narwade-aws-certified-devops/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:narwade.uu@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   
-</div>
-
-<h3 align="left">🚀 SKills :</h3>
-
-<div align="left">
-  <h4 align="left">• DevOps <img src="devops.png" width="40px" height="auto"></h4>
-  <h4 align="left">• Docker <img src="docker.png" width="40px" height="auto"></h4>
-  <h4 align="left">• Jenkins <img src="download (5).png" width="80px" height="auto"></h4>
-  <h4 align="left">• CI/CD <img src="cicd.png" width="40px" height="auto"></h4>
-  <h4 align="left">• kubernates <img src="download (4).png" width="40px" height="auto"></h4>
-  <h4 align="left">• AWS Certified <img src="aws.png" width="40px" height="auto"></h4>
-  <h4 align="left">• Terraform <img src="download (2).png" width="40px" height="auto"></h4>
-  <h4 align="left">• Grafana <img src="grafana-icon-2048x2048-wqsyt9bl.png" width="40px" height="auto"></h4>
-  <h4 align="left">• Prometheus <img src="Prometheus_software_logo.svg.png" width="40px" height="auto"></h4>
-  <h4 align="left">• Linux <img src="download.jpeg" width="40px" height="auto"></h4>
-  <h4 align="left">• Python <img src="download (6).png" width="40px" height="auto"></h4>
-</div>
+# 💫 About Me:
+As a Senior Trainer, I specialize in mentoring and applying cutting-edge cloud technologies on the Amazon Web Services (AWS)☁️ platform with DevOps tools<br><br>Here's a snapshot of my journey:🧑‍🚀🚀<br><br>1. Primary Responsibilities:💻<br> - Design, implement, and manage cloud solutions on AWS with DevOps tools<br> - Mentor students and professionals on the latest AWS practices with Industrial projects <br><br>2. AWS Hands-On Experience:⚙️<br> - Proficient in AWS services such as EC2, S3,VPC, CloudWatch, SNS, RDS, Redshift <br> - AWS Certified Solutions Architect.<br> - AWS Certified SysOps Administrator.<br><br>3. Key Achievements:💎<br> - Successfully designed and managed scalable, secure cloud solutions for various clients.<br> - Collaborated effectively with cross-functional teams and stakeholders.<br> - Migrated and modernized applications to leverage cloud-native services.<br><br>4. Upgrading in the Cloud ☁️ Security <br> - Passionate about cloud computing and continuously advancing my skills, pursuing higher education in cloud ☁️ domain.<br><br>5. Continuous Learning & Growth:🪃<br> - Engaged in continuous learning through AWS training, webinars, and community involvement.<br> - Committed to staying at the forefront of the ever-evolving AWS ecosystem.<br><br>6. Core Skills:🌐<br>Overall, my experience as an AWS Solutions Architect involved a combination of <br><br> - Technical Expertise🧭: Deep knowledge of AWS services and solutions.<br><br> - Design Skills🎡: Crafting reliable, cost-effective cloud architectures.<br><br> - Communication🗣️:Clear and effective communication with teams and clients.<br><br>✨With a solid foundation in AWS & DevOps <br>a passion for cloud solutions, <br>As a solutions architect, helping clients achieve their goals through innovative cloud technology..💪<br><br>I have collaborated with cross-functional teams, communicated effectively with stakeholders, and optimized costs and resources. ✨
 
 
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Cloud-Messenger&show_icons=true&theme=dark&locale=en" alt="Cloud-Messenger" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cloud-Messenger&show_icons=true&theme=dark&locale=en&layout=compact" alt="Cloud-Messenger" /></td>
-  </tr>
-</table>
+## 🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloud-Messenger&theme=dark" alt="Cloud-Messenger" /></p>
-  </div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cloud-messenger&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cloud-messenger&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-messenger&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cloud-messenger&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cloud-messenger&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cloud-messenger&icon=5&color=5)](https://visitcount.itsvg.in)
